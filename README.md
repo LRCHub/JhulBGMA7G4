@@ -1,0 +1,86 @@
+# Daft Punk – Harder, Better, Faster, Stronger
+
+> **歌詞登録ステータス：プレーン歌詞のみ**
+
+```
+Work It
+Make It
+Do It
+Makes Us
+Harder
+Better
+Faster
+Stronger
+More Than
+Hour
+Our
+Never
+Ever
+After
+Work is
+Over
+Work It
+Make It
+Do It
+Makes Us
+Harder
+Better
+Faster
+Stronger
+Work It Harder Make It Better
+Do It Faster Makes Us stronger
+More Than Ever Hour After
+Our Work Is Never Over
+Work It Harder Make It Better
+Do It Faster Makes Us stronger
+More Than Ever Hour After
+Our Work Is Never Over
+Work It Harder Make It Better
+Do It Faster Makes Us stronger
+More Than Ever Hour After
+Our Work Is Never Over
+Work It Harder Make It Better
+Do It Faster Makes Us stronger
+More Than Ever Hour After
+Our Work Is Never Over
+Work It Harder Make It Better
+Do It Faster Makes Us stronger
+More Than Ever Hour After
+Our Work Is Never Over
+Work It Harder Make It Better
+Do It Faster Makes Us stronger
+More Than Ever Hour After
+Our Work Is Never Over
+Work It Harder Make It Better
+Do It Faster Makes Us stronger
+More Than Ever Hour After
+Our Work Is Never Over
+Work It Harder Make It Better
+Do It Faster Makes Us stronger
+More Than Ever Hour After
+Our Work Is Never Over
+Work It Harder Make It Better
+Do It Faster Makes Us stronger
+More Than Ever Hour After
+Our Work Is Never Over
+Work It Harder Make It Better
+Do It Faster Makes Us stronger
+More Than Ever Hour After
+Our Work Is Never Over
+Work It Harder Make It Better
+Do It Faster Makes Us stronger
+More Than Ever Hour After
+Our Work Is Never Over
+Work It Harder Make It Better
+Do It Faster Makes Us stronger
+More Than Ever Hour After
+Our Work Is Never Over
+Work It Harder
+Do It Faster
+More Than Ever
+Our Work Is Never Over
+Work It Harder Make It Better
+Do It Faster Makes Us stronger
+More Than Ever Hour After
+Our Work Is Never Over
+```
