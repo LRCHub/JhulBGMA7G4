@@ -1,0 +1,88 @@
+{
+  "version": 1,
+  "base_track": "Harder, Better, Faster, Stronger",
+  "base_artist": "Daft Punk",
+  "createdAt": "2025-12-25T06:23:08.251346Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Harder Better Faster Stronger",
+      "artist": "eAeon",
+      "has_synced": true,
+      "path": "select/01_Harder_Better_Faster_Stronger_eAeon.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Harder, Better, Faster, Stronger",
+      "artist": "Daft Punk",
+      "has_synced": true,
+      "path": "select/02_Harder,_Better,_Faster,_Stronger_Daft_Punk.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Harder, Better, Faster, Stronger",
+      "artist": "Pomplamoose",
+      "has_synced": true,
+      "path": "select/03_Harder,_Better,_Faster,_Stronger_Pomplamoose.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Harder Better Faster Stronger",
+      "artist": "Daft Punk",
+      "has_synced": true,
+      "path": "select/04_Harder_Better_Faster_Stronger_Daft_Punk.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Harder Better Faster Stronger",
+      "artist": "Daft Punk",
+      "has_synced": true,
+      "path": "select/05_Harder_Better_Faster_Stronger_Daft_Punk.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Harder,Better,Faster,Stronger",
+      "artist": "Daft Punk",
+      "has_synced": false,
+      "path": "select/06_Harder,Better,Faster,Stronger_Daft_Punk.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Harder Better Faster Stronger�",
+      "artist": "Daft Punk",
+      "has_synced": false,
+      "path": "select/07_Harder_Better_Faster_Stronger�_Daft_Punk.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Harder, Better, Faster, Stronger",
+      "artist": "Daft Punk",
+      "has_synced": true,
+      "path": "select/08_Harder,_Better,_Faster,_Stronger_Daft_Punk.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Harder, Better, Faster, Stronger",
+      "artist": "Daft Punk",
+      "has_synced": true,
+      "path": "select/09_Harder,_Better,_Faster,_Stronger_Daft_Punk.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Harder, Better, Faster, Stronger",
+      "artist": "Daft Punk",
+      "has_synced": false,
+      "path": "select/pl_01_Harder,_Better,_Faster,_Stronger_Daft_Punk.txt"
+    }
+  ]
+}
